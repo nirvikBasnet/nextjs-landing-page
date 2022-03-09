@@ -1,0 +1,6 @@
+//root dir to src so dont have to do ../../ in front of files
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
